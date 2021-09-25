@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @delllc
+- 👀 I'm interested in developing desktop applications
+- 🌱 I’m currently learning C# and ASP.NET
+- 📫 How to reach me TG @dyblik2
