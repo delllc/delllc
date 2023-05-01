@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Alex and I'm a full-stack, from Kurgan</h2>
 
 ###
 
@@ -39,11 +39,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/delllc/delllc/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/delllc/count.svg?"  />
-</div>
-
-###
