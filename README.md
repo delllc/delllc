@@ -38,4 +38,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/delllc/delllc/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/delllc/delllc/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
